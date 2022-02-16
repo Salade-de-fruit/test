@@ -13,5 +13,8 @@ public class main {
                 "Le scandale est important. Les rebondissements et les révélations se succèdent pendant plusieurs mois, tandis que la presse publie régulièrement les fiches en question. Malgré le soutien de Jean Jaurès et du Bloc des gauches, le gouvernement Émile Combes chute le 15 janvier 1905, emporté par l'affaire. Le cabinet Rouvier, qui lui succède, condamne formellement le fichage, prononce des sanctions symboliques et mène une politique d'apaisement. Néanmoins, le système des fiches se poursuit après 1905, appuyé non plus sur le Grand Orient mais sur les renseignements préfectoraux et adossé à la pratique de pressions politiques. En 1913, le ministre de la Guerre Alexandre Millerand y met fin définitivement.");
 
 
+
+                System.out.println("Le code explose BOUM BIM BAM BOUM BOUM BAM BIM PAF PIF POUF PAF PAF POUF BOUM BIM PAF");
+
     }
 }
